@@ -1,1 +1,1 @@
-Printing current working directory
+This is the readme file for shell basics directory
